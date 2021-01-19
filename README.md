@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm A Sai Karthik Vyas
+<a href="https://www.linkedin.com/in/sai-karthik-vyas-akondi-83b46034/">
+  <img align="left" alt="ASKV's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 
 <!--
 **askvyas/askvyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
