@@ -7,7 +7,7 @@
 <br/>
  🌱 I’m currently studying Electronics and Instrumentation from Keshav Memorial Institute of Technology
  <br/>
- 🔭 I’m currently working on Python and DSA
+  🔭 I’m currently working on Python and DSA
 
 ![ASKV's github stats](https://github-readme-stats.vercel.app/api?username=askvyas&show_icons=true&theme=radical)
 <!--
