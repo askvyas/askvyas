@@ -5,9 +5,10 @@
 </a>
 
 <br/>
-- 🌱 I’m currently studying Electronics and Instrumentation from Keshav Memorial Institute of Technology
+ 🌱 I’m currently studying Electronics and Instrumentation from Keshav Memorial Institute of Technology
+ <br/>
  🔭 I’m currently working on Python and DSA
-<br/>
+
 ![ASKV's github stats](https://github-readme-stats.vercel.app/api?username=askvyas&show_icons=true&theme=radical)
 <!--
 **askvyas/askvyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
