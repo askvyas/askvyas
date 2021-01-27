@@ -7,7 +7,7 @@
 <a href="https://www.facebook.com/askv.vyas/g">
   <img align="left" alt="Vyas's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 <br/>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=askvyas)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=askvyas.askvyas)
 <br />
 **What I'm currently doing:**
 
