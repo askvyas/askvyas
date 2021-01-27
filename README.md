@@ -3,11 +3,11 @@
 
 <a href="https://www.linkedin.com/in/sai-karthik-vyas-akondi-83b46034/">
   <img align="left" alt="Vyas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 <a href="https://www.facebook.com/askv.vyas/g">
   <img align="left" alt="Vyas's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
-![](https://visitor-badge.glitch.me/badge?page_id=askvyas.askvyas)
+
+![visitors(https://visitor-badge.glitch.me/badge?page_id=askvyas)
 <br />
 **What I'm currently doing:**
 
