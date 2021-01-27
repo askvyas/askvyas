@@ -8,9 +8,10 @@
 <a href="https://www.facebook.com/askv.vyas/g">
   <img align="left" alt="Vyas's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
   </a>
-<br/>
-![](https://komarev.com/ghpvc/?username=askvyas&color=green)
+
+![](https://komarev.com/ghpvc/?username=askvyas)
 <br />
+
 **What I'm currently doing:**
 
 - 👨🏽‍💻 I’m currently working on Python  :wink:;
