@@ -15,8 +15,8 @@
 **What I'm currently doing:**
 
 - 👨🏽‍💻 I’m currently working on Python  :wink:;
-- 🌱 I’m currently learning DSA and Machine Learning; 
-- 💬 I'll be happy to colaborate;
+- 🌱 I’m currently learning  Machine Learning; 
+- 💬 Open for Collaborations;
 - 📝[Resume](https://drive.google.com/file/d/16_Qn7oXIXxuns884nHi1pnYNLGkJ7BRG/view)
 
 📈 My GitHub Stats
