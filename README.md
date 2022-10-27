@@ -17,7 +17,7 @@
 - 👨🏽‍💻 I’m currently working on Python  :wink:;
 - 🌱 I’m currently learning  Machine Learning; 
 - 💬 Open for Collaborations;
-- 📝[Resume](https://drive.google.com/file/d/16_Qn7oXIXxuns884nHi1pnYNLGkJ7BRG/view)
+- 📝[Resume]([https://drive.google.com/file/d/16_Qn7oXIXxuns884nHi1pnYNLGkJ7BRG/view](https://drive.google.com/file/d/1yUtutZa0bPRD0cKM915o1KIXkr9du1w8/view?usp=sharing))
 
 📈 My GitHub Stats
 
