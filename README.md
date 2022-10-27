@@ -5,9 +5,6 @@
   <img align="left" alt="Vyas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 
-<a href="https://www.facebook.com/askv.vyas/g">
-  <img align="left" alt="Vyas's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-  </a>
 
 ![](https://komarev.com/ghpvc/?username=askvyas)
 <br />
