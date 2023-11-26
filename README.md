@@ -22,9 +22,3 @@
 ![ROS](https://img.shields.io/badge/-ROS-22314E?&logo=ROS&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-566BE8?&logo=TensorFlow&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-FF6F61)
-
-<!-- Add more badges here -->
-
-## My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true)
-
