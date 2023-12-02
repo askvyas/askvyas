@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Robotics, Autonomus Vehicles and Biomedical Devices.
 
 - Follow me on X(Twitter):
-  - [LinkedIn](https://www.linkedin.com/in/saikarthikvyas/)
+  - [Twitter](https://twitter.com/askvyas_1)
 
 - 
 - - 📫 How to reach me:
