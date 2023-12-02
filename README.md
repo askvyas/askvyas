@@ -8,8 +8,13 @@
   - [Monocular Depth Estimation](https://github.com/askvyas/Monocular_Depth_Estimation)
 - 🌱 I’m currently learning ROS, C++.
 - 👯 I’m looking to collaborate on Robotics, Autonomus Vehicles and Biomedical Devices.
+
+- Follow me on X(Twitter):
+  - [LinkedIn](https://www.linkedin.com/in/saikarthikvyas/)
+
+- 
 - - 📫 How to reach me:
-  - [LinkedIn](https://github.com/yourUsername/rosWarehouseSimulationRepo)
+  - [LinkedIn](https://www.linkedin.com/in/saikarthikvyas/)
 
 ## ⚡ My Favourite Books
 - [The Fountainhead by Ayn Rand](https://www.goodreads.com/book/show/2122.The_Fountainhead)
@@ -22,3 +27,4 @@
 ![ROS](https://img.shields.io/badge/-ROS-22314E?&logo=ROS&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-566BE8?&logo=TensorFlow&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-FF6F61)
+
