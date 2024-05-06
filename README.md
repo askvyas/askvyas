@@ -1,7 +1,6 @@
 # Hello, I'm Sai Karthik Vyas!
 
 ## About Me
-- 🎓 I'm currently studying Master's Degreee in Robotics at University at Buffalo.
 - 💻 I'm working on:
   - [ROS Warehouse Simulation](https://github.com/askvyas/Warehouse-ROS-Simulation)
   - [NaviTest](https://github.com/askvyas/Navi_Test)
@@ -9,10 +8,6 @@
 - 🌱 I’m currently learning ROS, C++.
 - 👯 I’m looking to collaborate on Robotics, Autonomus Vehicles and Biomedical Devices.
 
-- Follow me on X(Twitter):
-  - [Twitter](https://twitter.com/askvyas_1)
-
-- 
 - - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/saikarthikvyas/)
 
